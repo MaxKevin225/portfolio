@@ -9,7 +9,7 @@ export const socialNetworks = [
     {
         id: 2,
         logo: <GithubIcon size={30} strokeWidth={1} />,
-        src: "https://github.com/greensoft0608",
+        src: "https://github.com/MaxKevin225",
     },
     {
         id: 3,
