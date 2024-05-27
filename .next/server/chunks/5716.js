@@ -1,0 +1,1 @@
+"use strict";exports.id=5716,exports.ids=[5716],exports.modules={5716:(t,e,r)=>{r.d(e,{drawSquare:()=>d});let s=Math.sqrt(2);function d(t){let{context:e,radius:r}=t,d=r/s,o=2*d;e.rect(-d,-d,o,o)}}};

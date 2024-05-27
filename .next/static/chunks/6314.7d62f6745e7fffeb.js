@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[6314],{6314:function(t,e,n){n.d(e,{drawSquare:function(){return c}});let u=Math.sqrt(2);function c(t){let{context:e,radius:n}=t,c=n/u,r=2*c;e.rect(-c,-c,r,r)}}}]);

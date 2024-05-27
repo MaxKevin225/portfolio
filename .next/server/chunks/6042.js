@@ -1,0 +1,1 @@
+"use strict";exports.id=6042,exports.ids=[6042],exports.modules={6042:(e,t,o)=>{o.d(t,{drawLine:()=>s});function s(e){let{context:t,particle:o,radius:s}=e,i=o.shapeData;t.moveTo(-s,0),t.lineTo(s,0),t.lineCap=i?.cap??"butt"}}};

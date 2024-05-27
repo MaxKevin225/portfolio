@@ -1,0 +1,1 @@
+"use strict";exports.id=8821,exports.ids=[8821],exports.modules={8821:(t,e,d)=>{d.d(e,{loadOutModesUpdater:()=>a});async function a(t,e=!0){await t.addParticleUpdater("outModes",async t=>{let{OutOfCanvasUpdater:e}=await d.e(8140).then(d.bind(d,8140));return new e(t)},e)}}};

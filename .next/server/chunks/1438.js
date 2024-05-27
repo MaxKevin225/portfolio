@@ -1,0 +1,1 @@
+"use strict";exports.id=1438,exports.ids=[1438],exports.modules={5813:(e,t,a)=>{a.d(t,{h:()=>d});let d=["emoji"]},1438:(e,t,a)=>{a.d(t,{loadEmojiShape:()=>i});var d=a(5813);async function i(e,t=!0){let{EmojiDrawer:i}=await a.e(5580).then(a.bind(a,5580));await e.addShape(d.h,new i,t)}}};

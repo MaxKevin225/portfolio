@@ -1,0 +1,1 @@
+"use strict";exports.id=9936,exports.ids=[9936],exports.modules={9936:(e,s,t)=>{t.d(s,{LineDrawer:()=>r});class r{async draw(e){let{drawLine:s}=await t.e(6042).then(t.bind(t,6042));s(e)}getSidesCount(){return 1}}}};
