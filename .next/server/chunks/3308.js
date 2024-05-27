@@ -1,0 +1,1 @@
+"use strict";exports.id=3308,exports.ids=[3308],exports.modules={3308:(a,l,o)=>{o.d(l,{drawEmoji:()=>e});function e(a){let{context:l,particle:o,radius:e,opacity:t}=a,s=o.emojiData,d=2*e,i=l.globalAlpha;s&&(l.globalAlpha=t,l.drawImage(s,-e,-e,d,d),l.globalAlpha=i)}}};

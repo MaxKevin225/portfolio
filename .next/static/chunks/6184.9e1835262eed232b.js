@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[6184],{3785:function(a,l,e){e.d(l,{drawEmoji:function(){return n}});function n(a){let{context:l,particle:e,radius:n,opacity:o}=a,t=e.emojiData,u=2*n,c=l.globalAlpha;t&&(l.globalAlpha=o,l.drawImage(t,-n,-n,u,u),l.globalAlpha=c)}}}]);

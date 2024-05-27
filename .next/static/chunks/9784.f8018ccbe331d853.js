@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[9784],{7524:function(e,n,t){t.d(n,{SquareDrawer:function(){return u}});class u{async draw(e){let{drawSquare:n}=await t.e(6314).then(t.bind(t,6314));n(e)}getSidesCount(){return 4}}}}]);

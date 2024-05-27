@@ -1,0 +1,1 @@
+"use strict";exports.id=9428,exports.ids=[9428],exports.modules={9428:(t,e,o)=>{o.d(e,{drawStar:()=>r});let s={x:0,y:0};function r(t){let{context:e,particle:o,radius:r}=t,a=o.sides,i=o.starInset??2;e.moveTo(s.x,s.y-r);for(let t=0;t<a;t++)e.rotate(Math.PI/a),e.lineTo(s.x,s.y-r*i),e.rotate(Math.PI/a),e.lineTo(s.x,s.y-r)}}};

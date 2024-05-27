@@ -1,0 +1,1 @@
+"use strict";exports.id=2935,exports.ids=[2935],exports.modules={2935:(e,o,i)=>{i.d(o,{bounce:()=>t});var l=i(1146);let s=e=>{void 0===e.collisionMaxSpeed&&(e.collisionMaxSpeed=(0,l.Gu)(e.options.collisions.maxSpeed)),e.velocity.length>e.collisionMaxSpeed&&(e.velocity.length=e.collisionMaxSpeed)};function t(e,o){(0,l.kR)((0,l.gy)(e),(0,l.gy)(o)),s(e),s(o)}}};

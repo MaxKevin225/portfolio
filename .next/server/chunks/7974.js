@@ -1,0 +1,1 @@
+"use strict";exports.id=7974,exports.ids=[7974],exports.modules={7974:(e,t,s)=>{s.d(t,{StarDrawer:()=>r});var a=s(1146);class r{async draw(e){let{drawStar:t}=await s.e(9428).then(s.bind(s,9428));t(e)}getSidesCount(e){let t=e.shapeData;return Math.round((0,a.Gu)(t?.sides??5))}async particleInit(e,t){let s=t.shapeData;t.starInset=(0,a.Gu)(s?.inset??2),await Promise.resolve()}}}};

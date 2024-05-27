@@ -1,0 +1,1 @@
+"use strict";exports.id=3551,exports.ids=[3551],exports.modules={3551:(e,c,i)=>{i.d(c,{drawCircle:()=>t});let r=2*Math.PI;function t(e){let{context:c,particle:i,radius:t}=e;i.circleRange||(i.circleRange={min:0,max:r});let a=i.circleRange;c.arc(0,0,t,a.min,a.max,!1)}}};

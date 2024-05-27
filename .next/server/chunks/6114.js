@@ -1,0 +1,1 @@
+"use strict";exports.id=6114,exports.ids=[6114],exports.modules={6114:(e,s,t)=>{t.d(s,{SquareDrawer:()=>r});class r{async draw(e){let{drawSquare:s}=await t.e(5716).then(t.bind(t,5716));s(e)}getSidesCount(){return 4}}}};
