@@ -200,7 +200,7 @@ export const dataPortfolio = [
     },
     {
         id: 8,
-        title: "AIfProtocal Blockchain",
+        title: "ONEDEX Blockchain",
         image: "/image-8.jpg",
         urlGithub: "#!",
         urlDemo: "#!",
