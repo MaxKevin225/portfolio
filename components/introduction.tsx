@@ -28,7 +28,11 @@ const Introduction = () => {
                     </h1>
 
                     <p className="mx-auto mb-2 text-xl md:text-xl md:mx-0 md:mb-8">
-                        As an experienced full-stack web developer with expertise in React JS, Node.js, Express.js, Typescript, Tailwind CSS, MySQL and MongoDB. I have a strong background in developing high-quality, responsive full stack web, mobile, and blockchain applications. 
+                        As an experienced full-stack web developer with expertise in React JS, Node.js, Express.js, Typescript, Tailwind CSS, MySQL and MongoDB.
+                    </p>
+
+                    <p className="mx-auto mb-2 text-xl md:text-xl md:mx-0 md:mb-8">
+                       I have a strong background in developing high-quality, responsive full stack web, mobile, and blockchain applications. 
                     </p>
 
                     <div className="flex items-center justify-center gap-3 md:justify-start md:gap-10">
