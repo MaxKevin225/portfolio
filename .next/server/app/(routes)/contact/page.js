@@ -769,9 +769,9 @@
                               children: [
                                 n.jsx(l.Z, { className: "text-gray-400 mr-4", size: 24 }),
                                 n.jsx("a", {
-                                  href: "https://github.com/maxKevin",
+                                  href: "https://github.com/MaxKevin225",
                                   className: "text-gray-400",
-                                  children: "github.com/maxKevin",
+                                  children: "github.com/MaxKevin225",
                                 }),
                               ],
                             }),
@@ -951,7 +951,7 @@
           y = r(1723);
         let g = [
             { id: 1, logo: n.jsx(i.Z, { size: 30, strokeWidth: 1 }), src: "mailto:limk69966@gmail.com" },
-            { id: 2, logo: n.jsx(o.Z, { size: 30, strokeWidth: 1 }), src: "https://github.com/maxKevin" },
+            { id: 2, logo: n.jsx(o.Z, { size: 30, strokeWidth: 1 }), src: "https://github.com/MaxKevin225" },
             { id: 3, logo: n.jsx(a.Z, { size: 30, strokeWidth: 1 }), src: "/myresume.pdf" },
           ],
           x = [

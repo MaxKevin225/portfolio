@@ -124,7 +124,7 @@
         f = t(1318);
       let x = [
           { id: 1, logo: (0, n.jsx)(s.Z, { size: 30, strokeWidth: 1 }), src: "mailto:limk69966@gmail.com" },
-          { id: 2, logo: (0, n.jsx)(o.Z, { size: 30, strokeWidth: 1 }), src: "https://github.com/maxKevin" },
+          { id: 2, logo: (0, n.jsx)(o.Z, { size: 30, strokeWidth: 1 }), src: "https://github.com/MaxKevin225" },
           { id: 3, logo: (0, n.jsx)(r.Z, { size: 30, strokeWidth: 1 }), src: "/myresume.pdf" },
         ],
         b = [

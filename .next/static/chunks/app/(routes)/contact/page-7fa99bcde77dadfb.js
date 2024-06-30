@@ -158,9 +158,9 @@
                             children: [
                               (0, t.jsx)(r.Z, { className: "text-gray-400 mr-4", size: 24 }),
                               (0, t.jsx)("a", {
-                                href: "https://github.com/maxKevin",
+                                href: "https://github.com/MaxKevin225",
                                 className: "text-gray-400",
-                                children: "github.com/maxKevin",
+                                children: "github.com/MaxKevin225",
                               }),
                             ],
                           }),

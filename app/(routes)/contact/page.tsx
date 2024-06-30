@@ -114,8 +114,8 @@ const TestimonialsPage = () => {
               </div>
               <div className="flex items-center mb-4">
                 <GithubIcon className="text-gray-400 mr-4" size={24} />
-                <a href="https://github.com/maxKevin" className="text-gray-400">
-                  github.com/maxKevin
+                <a href="https://github.com/MaxKevin225" className="text-gray-400">
+                  github.com/MaxKevin225
                 </a>
               </div>
               <div className="flex items-center">
