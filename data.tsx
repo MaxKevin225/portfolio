@@ -111,18 +111,10 @@ export const dataAboutPage = [
   },
   {
     id: 4,
-    title: "Front Developer",
-    subtitle: "Westgate",
-    description:
-      "Integrated Web Admin Panel to IoT projects using Angular , Node.js , and AWS EC2 and Used React.js , Node.js and MongoDB to build RESTful APIs for live communication for IoTprojects.",
-    date: "Feb 2027",
-  },
-  {
-    id: 5,
     title: "Education",
     subtitle: "Nanyang Technological University",
     description: "Master's Degree in Computer Science, Nanyang Technological University",
-    date: "May 2013",
+    date: "May 2017",
   },
 ];
 
