@@ -758,9 +758,9 @@
                               children: [
                                 n.jsx(s.Z, { className: "text-gray-400 mr-4", size: 24 }),
                                 n.jsx("a", {
-                                  href: "mailto:limk69966@gmail.com",
+                                  href: "mailto:kevin@prohub.work",
                                   className: "text-gray-400",
-                                  children: "limk69966@gmail.com",
+                                  children: "kevin@prohub.work",
                                 }),
                               ],
                             }),
@@ -769,9 +769,9 @@
                               children: [
                                 n.jsx(l.Z, { className: "text-gray-400 mr-4", size: 24 }),
                                 n.jsx("a", {
-                                  href: "https://github.com/MaxKevin225",
+                                  href: "https://github.com/silversoft77",
                                   className: "text-gray-400",
-                                  children: "github.com/MaxKevin225",
+                                  children: "github.com/silversoft77",
                                 }),
                               ],
                             }),
@@ -950,8 +950,8 @@
           h = r(4136),
           y = r(1723);
         let g = [
-            { id: 1, logo: n.jsx(i.Z, { size: 30, strokeWidth: 1 }), src: "mailto:limk69966@gmail.com" },
-            { id: 2, logo: n.jsx(o.Z, { size: 30, strokeWidth: 1 }), src: "https://github.com/MaxKevin225" },
+            { id: 1, logo: n.jsx(i.Z, { size: 30, strokeWidth: 1 }), src: "mailto:kevin@prohub.work" },
+            { id: 2, logo: n.jsx(o.Z, { size: 30, strokeWidth: 1 }), src: "https://github.com/silversoft77" },
             { id: 3, logo: n.jsx(a.Z, { size: 30, strokeWidth: 1 }), src: "/myresume.pdf" },
           ],
           x = [

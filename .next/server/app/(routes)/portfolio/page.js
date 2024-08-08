@@ -298,8 +298,8 @@
           g = i(4136),
           f = i(1723);
         let x = [
-            { id: 1, logo: r.jsx(n.Z, { size: 30, strokeWidth: 1 }), src: "mailto:limk69966@gmail.com" },
-            { id: 2, logo: r.jsx(o.Z, { size: 30, strokeWidth: 1 }), src: "https://github.com/MaxKevin225" },
+            { id: 1, logo: r.jsx(n.Z, { size: 30, strokeWidth: 1 }), src: "mailto:kevin@prohub.work" },
+            { id: 2, logo: r.jsx(o.Z, { size: 30, strokeWidth: 1 }), src: "https://github.com/silversoft77" },
             { id: 3, logo: r.jsx(a.Z, { size: 30, strokeWidth: 1 }), src: "/myresume.pdf" },
           ],
           y = [

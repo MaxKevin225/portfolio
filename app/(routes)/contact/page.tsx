@@ -108,14 +108,14 @@ const TestimonialsPage = () => {
               </div>
               <div className="flex items-center mb-4">
                 <MailIcon className="text-gray-400 mr-4" size={24} />
-                <a href="mailto:limk69966@gmail.com" className="text-gray-400">
-                  limk69966@gmail.com
+                <a href="mailto:kevin@prohub.work" className="text-gray-400">
+                  kevin@prohub.work
                 </a>
               </div>
               <div className="flex items-center mb-4">
                 <GithubIcon className="text-gray-400 mr-4" size={24} />
-                <a href="https://github.com/MaxKevin225" className="text-gray-400">
-                  github.com/MaxKevin225
+                <a href="https://github.com/silversoft77" className="text-gray-400">
+                  github.com/silversoft77
                 </a>
               </div>
               <div className="flex items-center">
