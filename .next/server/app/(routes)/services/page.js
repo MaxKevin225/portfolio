@@ -338,8 +338,8 @@
           h = i(4136),
           g = i(1723);
         let f = [
-            { id: 1, logo: s.jsx(n.Z, { size: 30, strokeWidth: 1 }), src: "mailto:limk69966@gmail.com" },
-            { id: 2, logo: s.jsx(r.Z, { size: 30, strokeWidth: 1 }), src: "https://github.com/MaxKevin225" },
+            { id: 1, logo: s.jsx(n.Z, { size: 30, strokeWidth: 1 }), src: "mailto:kevin@prohub.work" },
+            { id: 2, logo: s.jsx(r.Z, { size: 30, strokeWidth: 1 }), src: "https://github.com/silversoft77" },
             { id: 3, logo: s.jsx(a.Z, { size: 30, strokeWidth: 1 }), src: "/myresume.pdf" },
           ],
           v = [

@@ -31,12 +31,12 @@ export const socialNetworks = [
   {
     id: 1,
     logo: <MailIcon size={30} strokeWidth={1} />,
-    src: "mailto:limk69966@gmail.com",
+    src: "mailto:kevin@prohub.work",
   },
   {
     id: 2,
     logo: <GithubIcon size={30} strokeWidth={1} />,
-    src: "https://github.com/MaxKevin225",
+    src: "https://github.com/silversoft77",
   },
   {
     id: 3,

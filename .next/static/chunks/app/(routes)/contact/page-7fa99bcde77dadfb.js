@@ -147,9 +147,9 @@
                             children: [
                               (0, t.jsx)(n.Z, { className: "text-gray-400 mr-4", size: 24 }),
                               (0, t.jsx)("a", {
-                                href: "mailto:limk69966@gmail.com",
+                                href: "mailto:kevin@prohub.work",
                                 className: "text-gray-400",
-                                children: "limk69966@gmail.com",
+                                children: "kevin@prohub.work",
                               }),
                             ],
                           }),
@@ -158,9 +158,9 @@
                             children: [
                               (0, t.jsx)(r.Z, { className: "text-gray-400 mr-4", size: 24 }),
                               (0, t.jsx)("a", {
-                                href: "https://github.com/MaxKevin225",
+                                href: "https://github.com/silversoft77",
                                 className: "text-gray-400",
-                                children: "github.com/MaxKevin225",
+                                children: "github.com/silversoft77",
                               }),
                             ],
                           }),
